@@ -12,6 +12,7 @@ all without changing a single game file.**
 ![Python](https://img.shields.io/badge/Python-launcher%20%2B%20panel-3776ab?logo=python&logoColor=white)
 ![Tests](https://img.shields.io/badge/tests-121%20agent%20%2B%209%20panel-2ea44f)
 ![Game files patched](https://img.shields.io/badge/game%20files%20patched-0-blue)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
 
 <img src="docs/images/crew-window-short.png" width="720" alt="The in-game CREW window: hire Dusty the Sweeper or Hank the Hauler">
 
@@ -326,7 +327,7 @@ flowchart LR
 
 <div align="center">
 <sub>
-A personal modding project. Not affiliated with the developers of Moon Sweepers. Use in solo play.
+A personal modding project, released under the <a href="LICENSE">MIT License</a>. Not affiliated with the developers of Moon Sweepers. Use in solo play.
 Built with <a href="https://claude.com/claude-code">Claude Code</a>.
 </sub>
 </div>
