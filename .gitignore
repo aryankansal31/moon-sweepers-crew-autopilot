@@ -1,0 +1,18 @@
+# Copied game (1.1 GB) and local tooling
+game/
+tools/venv/
+agent/node_modules/
+# Local data and runtime state
+save-backup/
+sandbox/
+status.json
+config.json
+crew.json
+autopilot.json
+crew-request.json
+*.tmp
+__pycache__/
+# Regenerable runtime dump (2.4 MB): scripts/run_agent.py agent/src/dump.ts --out analysis/dump.cs
+analysis/dump.cs
+.superpowers/
+.claude/
